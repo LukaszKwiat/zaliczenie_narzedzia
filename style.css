@@ -89,3 +89,11 @@ body {
     opacity: 1;
     right: 0;
   }
+.motto-white {
+    font-size: 5em;
+    color: white;
+}
+.motto-orange {
+    font-size: 5em;
+    color: rgb(243, 130, 0);
+}
