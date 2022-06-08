@@ -176,5 +176,18 @@ body {
     .motto-orange {
         font-size: 2.5em;
     }
-        
+    .registration-header {
+        font-size: 1.75em;
+    }
+    .registration-input-name {
+        font-size: 0.75em;
+        margin-bottom: 2px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .registration-input {
+        width: 250px;
+        height: 30px;
+        font-size: 1em;
+    }   
     
