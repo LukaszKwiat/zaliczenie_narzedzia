@@ -145,3 +145,9 @@ body {
     font-weight: bold;
     vertical-align: middle;
 }
+@media only screen and (max-width: 600px) {
+    .input-container {
+        justify-content: left;
+        align-content: flex-start;
+        text-align: left;
+    }
