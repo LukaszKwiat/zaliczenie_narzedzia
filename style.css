@@ -151,3 +151,11 @@ body {
         align-content: flex-start;
         text-align: left;
     }
+     .leftbox {
+        padding: 20px;
+        margin-right: 0px;
+        height: auto;
+        width: 300px;
+           }
+        
+    
