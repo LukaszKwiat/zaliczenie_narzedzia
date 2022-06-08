@@ -189,5 +189,13 @@ body {
         width: 250px;
         height: 30px;
         font-size: 1em;
-    }   
+    }
+    .registration-if-user1 {
+        font-size: 0.7em;
+        margin-bottom: 7px;
+    }
+    .registration-if-user2 {
+        font-size: 1em;
+    }
+}
     
