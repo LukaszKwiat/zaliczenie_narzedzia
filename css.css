@@ -21,3 +21,30 @@ body {
     background-position: 50% 70%;
     background-attachment: fixed;
 }
+.container {
+    min-height: 100vh;
+    min-width: 100vw;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.26);
+}
+.leftbox {  
+    padding: 50px;
+    height: 500px;
+    width: 500px;
+    margin-right: 10vw;
+}
+.rightbox {
+    padding: 20px;
+    border-radius: 10%;
+    height: 500px;
+    width: 500px;
+    background-color: rgba(0,0,0,0.2);
+    text-align: center;
+    
+}
